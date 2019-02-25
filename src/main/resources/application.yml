@@ -1,0 +1,5 @@
+swagger:
+  title: Kitty's Easy Spring Boot Swagger
+  description: I Am Kitty Too
+  version: 1.0.0
+  name: Kitty
